@@ -1,8 +1,6 @@
 package com.oogo.stream;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 
 public class StreamMaxMin {
@@ -25,7 +23,6 @@ public class StreamMaxMin {
     System.out.println("max : " + max);
     System.out.println("min : " + min);
   }
-
 
   public static void test1() {
     //타입이 int일경우
